@@ -1,2 +1,3 @@
 # 1st-one
-This is my first git repsitory
+This is my first git repsitory.
+Author - Roushan kumar 
