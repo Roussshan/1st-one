@@ -76,4 +76,4 @@ Open `index.html` in your preferred web browser.
 
 ## ⭐ Note
 
-This repository will always remain special to me because it is the first step in my GitHub journey. 🚀
+This repository will always remain special to me because it is the first step in my GitHub journey. 
